@@ -1,5 +1,5 @@
-# Portfolio or Videos
-Portfolio of Project Videos:
+# Project Videos
+Videos of In Progress or Past Projects:
 
 
 EuroRack Module(s): https://submatrixaudio.com/
